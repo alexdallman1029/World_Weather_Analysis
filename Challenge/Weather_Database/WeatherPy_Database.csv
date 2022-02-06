@@ -1,4 +1,4 @@
-City_ID,City,Country,Date,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+,City,Country,Date,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
 0,Vaini,TO,2022-02-06 19:09:25,-21.2,-175.2,75.36,94,100,10.36,light rain
 1,Mataura,NZ,2022-02-06 19:11:48,-46.1927,168.8643,43.48,90,10,0.92,clear sky
 2,Lagoa,PT,2022-02-06 19:08:46,39.05,-27.9833,60.19,85,16,12.15,few clouds

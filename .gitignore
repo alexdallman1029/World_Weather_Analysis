@@ -130,5 +130,6 @@ dmypy.json
 
 # Adding config.py file.
 config.py
+config2.py
 API_practice.ipynb
 practice_with_random.ipynb
